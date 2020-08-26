@@ -1,6 +1,4 @@
-### Thaylã "Thay" Cavalcante 
-
-<h1 align="center">Hi 👋, I'm Thaylã Cavalcante</h1>
+<h1>Thaylã "Thay" Cavalcante</h1>
 <h3 align="center">I mostly do back-end work, in languages such as PHP and JavaScript, but I also have some experience working on front-end development, specially with SCSS and Vue.js. As a secondary skill, I also know something about design, color theory and image editing, and I mostly use these to enhance prototypes and development work, but not as a primary skill.</h3>
 
 - 📫 How to reach me **thaylacavalcante@gmail.com**
