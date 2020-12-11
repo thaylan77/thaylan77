@@ -16,6 +16,10 @@
 
 Hi, I'm [Thaylã Cavalcante](https://www.instagram.com/thayranossauro/), a Full Stack Developer 🚀 from Brazil. Currently, I am the system analyst 🙍🏽‍♂️ at [Socel Caminhões](http://www.soceliveco.com.br/) and recently graduated in Information System at [Potiguar University](https://www.unp.br/). Besides programming, I like to eat, to travel and to play video games.
 
+<p align="right">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaylan77&show_icons=true&locale=en" alt="thaylan77" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylan77" alt="thaylan77" />
+</p>
 
 **Talking about Personal Stuffs:**
 
@@ -35,7 +39,7 @@ Hi, I'm [Thaylã Cavalcante](https://www.instagram.com/thayranossauro/), a Full 
   
   
 
-<p align="center">
+<p align="right">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaylan77&show_icons=true&locale=en" alt="thaylan77" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylan77" alt="thaylan77" />
 </p>
