@@ -13,3 +13,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=thaylan77.thaylan77)
 
 </br>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaylan77&show_icons=true&locale=en" alt="thaylan77" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylan77" alt="thaylan77" />
