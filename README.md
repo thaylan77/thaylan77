@@ -18,11 +18,10 @@
 Hi, I'm [Thaylã Cavalcante](https://www.instagram.com/thayranossauro/), a Full Stack Developer 🚀 from Brazil. Currently, I am the system analyst 🙍🏽‍♂️ at [Socel Caminhões](http://www.soceliveco.com.br/) and recently graduated in Information System at [Potiguar University](https://www.unp.br/). Besides programming, I like to eat, to travel and to play video games.
 
 
-**Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning JavaScript and Flutter; 
-- 💬 Ask me about anything, I'd be happy to help;
+
+- 💼 any freelance work? do reach, [email](mailto:thaylancavalcante@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:** 
 
