@@ -41,5 +41,4 @@ Hi, I'm [Thaylã Cavalcante](https://www.instagram.com/thayranossauro/), a Full 
 
 <p align="right">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaylan77&show_icons=true&locale=en" alt="thaylan77" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylan77" alt="thaylan77" />
 </p>
