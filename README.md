@@ -1,13 +1,14 @@
 <h1>Thaylã "Thay" Cavalcante</h1>
 
-<a href="https://www.facebook.com/thayla.cavalcante.3">
-  <img align="left" alt="Thay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/Thay#0617">
+  <img align="left" alt="Thaylã's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/thayl%C3%A3-cavalcante-680152144/">
-  <img align="left" alt="thay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Thaylã's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/thayranossauro/">
-  <img align="left" alt="Thay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://open.spotify.com/user/22ja7iwt6u5mmuv2quegdzi3i">
+  <img align="left" alt="Thaylã's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=thaylan77.thaylan77)
