@@ -19,7 +19,7 @@ Hi, I'm [Thaylã Cavalcante](https://www.instagram.com/thayranossauro/), a Full 
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="180" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="180" />
 
 - 💼 any freelance work? do reach, [email](mailto:thaylancavalcante@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
