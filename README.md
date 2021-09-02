@@ -41,6 +41,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </br>
  
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylan77&layout=compact&locale=pt-br&theme=vue" alt="thaylan77" />
+  
+</br>
+
 <p align="centert"> <img src="https://github-readme-stats.vercel.app/api?username=thaylan77&show_icons=true&locale=pt-br&theme=vue" alt="thaylan77" />
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaylan77&show_icons=true&locale=pt-br&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
