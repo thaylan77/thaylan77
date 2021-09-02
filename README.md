@@ -40,6 +40,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaylan77&show_icons=true&locale=pt-br&theme=vue" alt="thaylan77" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaylan77&show_icons=true&locale=pt-br&theme=vue" alt="thaylan77" />
   
 
