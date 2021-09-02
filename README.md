@@ -39,7 +39,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
  
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylan77&layout=compact&locale=pt-br&theme=vue" alt="thaylan77" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylan77&layout=compact&locale=pt-br&theme=vue" alt="thaylan77" /></p>
   
 </br>
 
