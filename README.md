@@ -22,6 +22,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 - 💼 any freelance work? do reach, [email](mailto:thaylancavalcante@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+- 
+<img align="right" alt="Silas-Gif" height="170" width="280" src="https://media3.giphy.com/media/aNeyXVMrED6fUO1Exy/giphy.gif">
 
 **languages and tools:** 
 
