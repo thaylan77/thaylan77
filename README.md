@@ -20,10 +20,10 @@ Hi, I'm [Thaylã Cavalcante](https://www.instagram.com/thayranossauro/), a Full 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylan77&layout=compact&locale=pt-br&theme=vue" alt="thaylan77" />
-
+<p align="left>
 - 💼 any freelance work? do reach, [email](mailto:thaylancavalcante@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
-
+</p>
 
 **languages and tools:** 
 
@@ -43,6 +43,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 </br>
 
-<p align="centert"> <img src="https://github-readme-stats.vercel.app/api?username=thaylan77&show_icons=true&locale=pt-br&theme=vue" alt="thaylan77" />
+<p align="centert"> <img src="https://github-readme-stats.vercel.app/api?username=thaylan77&show_icons=true&locale=pt-br&theme=vue" alt="thaylan77" /></p>
   
 
