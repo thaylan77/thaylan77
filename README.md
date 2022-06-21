@@ -1,6 +1,6 @@
 <h1>Thaylã "Thay" Cavalcante</h1>
 
-### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey There 
 <a href="https://discord.gg/Thay#0617">
   <img align="left" alt="Thaylã's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -8,7 +8,7 @@
   <img align="left" alt="Thaylã's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/22ja7iwt6u5mmuv2quegdzi3i">
-  <img align="left" alt="Thaylã's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Thaylã's Intagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=thaylan77.thaylan77)
