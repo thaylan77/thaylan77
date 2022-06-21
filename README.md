@@ -1,4 +1,4 @@
-<h1>Thaylã "Thay" Cavalcante</h1>
+<h1>Thaylã Cavalcante</h1>
 
 ### Hey There 
 <a href="https://discord.gg/Thay#0617">
