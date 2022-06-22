@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/thayl%C3%A3-cavalcante-680152144/">
   <img align="left" alt="Thaylã's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/22ja7iwt6u5mmuv2quegdzi3i">
+<a href="https://www.instagram.com/thayranossauro/">
   <img align="left" alt="Thaylã's Intagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
